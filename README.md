@@ -1,2 +1,3 @@
 # rugby_analysis
-This is assignment for python
+
+here I performed analysis on rugby world-cup-2015.
